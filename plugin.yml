@@ -1,0 +1,5 @@
+name: AntiCheat
+description: AntiCheat
+author: Jake Russo
+version: 1.0
+main: me.jake.anticheat.MainAC
